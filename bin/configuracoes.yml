@@ -1,0 +1,17 @@
+Drops:
+  Dropar: true   # Dropar itens ao matar um mob ou um jogador
+  Quantidade: 1   # Quantidades de item á dropar ao matar um jogador
+  SomAoDropar: EGG_POP  # Som ao matar alguma das entidades listadas abaixo
+  ItemDesconhecido:
+    SomAoDropar: EGG_POP  # Som ao dropar o Item Desconhecido
+    SomAoUsar: ORB_PICKUP  # Som ao clicar com o botão direito no Item Desconhecido
+  PontoDeEncantamento:
+    SomAoUsar: ORB_PICKUP  # Som ao usar o Ponto de Encantamento
+    MensagemHotbarAoUsar: '&f+1 &aPonto de Encantamento'  # Mensagem que aparecerá na hotbar ao usar um Ponto de Encantamento
+
+Entidades: # Entidades que irão dropar o item
+- PLAYER
+- ZOMBIE
+- CREEPER
+- CHICKEN
+- COW

@@ -1,0 +1,18 @@
+Itens:
+  Dust: # <--- Opções da dust
+    Material: SULPHUR   # Lista de materiais enviadas junto com o plugin
+    IdEspecial: 0   # ID especial do item. Explicado no documento
+    Nome: '&cItem Desconhecido'   # Nome do item
+    Descricao:   # Descrição ou 'lore' do item
+    - '&7Clique com o &fbotão direito &7para usar.'
+
+  PosDust: # <--- Opções do item que virá depois de clicar com o botão direito na dust
+    Material: INK_SACK
+    IdEspecial: 10
+    Nome: '&aPonto de Encantamento'
+    Descricao:
+    - '&7Dust moída'
+    - ' '
+    - '&7Clique com o &fbotão direito &7para usar.'
+
+

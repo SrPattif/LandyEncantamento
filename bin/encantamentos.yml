@@ -1,0 +1,26 @@
+Encantamentos:
+  NivelMaximo: 10
+  Espada:
+  - 1:DAMAGE_ALL
+  - 2:DURABILITY
+  - 3:DAMAGE_ARTHROPODS
+  - 4:FIRE_ASPECT
+  - 5:KNOCKBACK
+  - 6:LOOT_BONUS_MOBS
+  Picareta:
+  - 1:DURABILITY
+  - 2:LOOT_BONUS_BLOCKS
+  - 3:DIG_SPEED
+  - 4:SILK_TOUCH
+  Pa:
+  - 1:DURABILITY
+  - 2:LOOT_BONUS_BLOCKS
+  - 3:DIG_SPEED
+  - 4:SILK_TOUCH
+  Machado:
+  - 1:DURABILITY
+  - 2:LOOT_BONUS_BLOCKS
+  - 3:DIG_SPEED
+  - 4:SILK_TOUCH
+  Enxada:
+  - 1:DURABILITY

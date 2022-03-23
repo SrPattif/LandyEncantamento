@@ -1,0 +1,6 @@
+name: LandyEncantamento
+version: 1.0
+author: SrPattif
+main: srpattif.encantamentos.Main
+commands:
+  encantar:
